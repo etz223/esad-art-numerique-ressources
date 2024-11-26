@@ -32,3 +32,6 @@
 - Template de démarrage p5js dans un projet web avec ViteJs - https://github.com/makinteract/p5js-vite
 
 - exemple de detection de main avec ml5 - https://editor.p5js.org/mrbombmusic/sketches/Rzgg58X-T
+- Ml5 hand detection, more detailed tutorial - https://p5js.org/tutorials/speak-with-your-hands/
+- ml5 in processing - https://docs.ml5js.org/#/
+- P5js & MediaPipe - https://github.com/TetsuakiBaba/p5MediaPipe?tab=readme-ov-file
