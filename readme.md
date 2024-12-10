@@ -54,3 +54,9 @@
 - ml5 in processing - https://docs.ml5js.org/#/
 - P5js & MediaPipe - https://github.com/TetsuakiBaba/p5MediaPipe?tab=readme-ov-file
 - exemple d'utilisation de la librairie P5.sound / P5.FFT - https://www.youtube.com/watch?v=1mEvL0gHDRU 
+
+
+
+### AR
+
+- MindAR.js Outils javascript pour faire de l’AR avec de technologies web - https://hiukim.github.io/mind-ar-js-doc
