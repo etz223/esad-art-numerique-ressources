@@ -60,3 +60,4 @@
 ### AR
 
 - MindAR.js Outils javascript pour faire de l’AR avec de technologies web - https://hiukim.github.io/mind-ar-js-doc
+- Exemple de redirection d’une pge après détection d’une image - https://github.com/RobinMoretti/mind-ar-to-another-page
