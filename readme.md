@@ -20,6 +20,7 @@
 - "Pathways" - Julien Gachadoat https://vetroeditions.com/pages/ptw?srsltid=AfmBOooXW4eyDFCoTol4E9sIWlV-TUcfRMPv9thSpX_9nvKg66LnWiwr
 - "Tracing the Line" - Generative Hut https://fisheyeimmersive.com/article/book-club-tracing-the-line-de-generative-hut/
 - "Generative Art: A Practical Guide Using Processing" - Matt Pearson https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/txt/generativeArt2.pdf
+- "The Stuff Games Are Made Of" - Pippin Barr https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/
 
   
 
