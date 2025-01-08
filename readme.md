@@ -22,7 +22,26 @@
 - "Generative Art: A Practical Guide Using Processing" - Matt Pearson https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/txt/generativeArt2.pdf
 - "The Stuff Games Are Made Of" - Pippin Barr https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/
 
-  
+## Jeux Vidéo
+
+- Life is Strange - Don't Nod
+- The Wreck - Pixel hunt
+- Solar ash - Heart Machine
+- Season : a letter for the future - Scavengers Studio
+
+
+## Peinture
+
+- Comment puis-je dire (expo)- Bernard Frize - https://www.perrotin.com/fr/artists/Bernard_Frize/4/vue-de-lexposition-comment-puis-je-te-dire-perrotin-paris-france-2022/10000032951
+- Jaune Verticale - Frantisek Kupka
+- Hypnose - Diane benoit du rey (expo)- https://www.versailles.fr/1380/culture/espace-richaud/expositions-temporaires/exposition-hypnose-diane-benoit-du-rey.htm#:~:text=Du%2020%20octobre%20au%203%20décembre%202023,-L%27exposition&text=Hypnose%20est%20spécialement%20conçue%20pour,à%20une%20véritable%20expérience%20picturale.
+- Le noir en constellation - Lee Bae (expo)- https://leaflet.perrotin.com/fr/view/177/le-noir-en-constellation
+
+
+## Apprendre le code
+
+L'application Mimo (sorte duolingo pour le code) - https://mimo.org
+Le site Codingame (petits jeux à plusieurs à réaliser par le code) - https://www.codingame.com/start/fr/
 
 ### **ML5 and Tensorflow**
 
