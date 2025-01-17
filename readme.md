@@ -15,6 +15,8 @@
 - LXSH - https://www.instagram.com/lxshproject/
 - THEDOTISBLACK - https://thedotisblack.com
 - Patrik Huebner - https://www.patrik-huebner.com
+- Sougwen chung - https://sougwen.com/
+- Jisoo Yoo, "le plus ordinaire, le plus illusoire" - https://www.jisooyoo.com/le-plus-ordinaire-le-plus-illusoire.html
 
 ## Livres
 - "Pathways" - Julien Gachadoat https://vetroeditions.com/pages/ptw?srsltid=AfmBOooXW4eyDFCoTol4E9sIWlV-TUcfRMPv9thSpX_9nvKg66LnWiwr
@@ -22,7 +24,8 @@
 - "Generative Art: A Practical Guide Using Processing" - Matt Pearson https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/txt/generativeArt2.pdf
 - "The Stuff Games Are Made Of" - Pippin Barr https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/
 
-  
+## Site web utiles
+- https://www.w3schools.com/
 
 ### **ML5 and Tensorflow**
 
