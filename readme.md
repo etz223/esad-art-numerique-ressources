@@ -15,6 +15,9 @@
 - LXSH - https://www.instagram.com/lxshproject/
 - THEDOTISBLACK - https://thedotisblack.com
 - Patrik Huebner - https://www.patrik-huebner.com
+- Sougwen chung - https://sougwen.com/
+- Jisoo Yoo, "le plus ordinaire, le plus illusoire" - https://www.jisooyoo.com/le-plus-ordinaire-le-plus-illusoire.html
+- Domestic Data Streamers - https://www.domesticstreamers.com/
 
 ## Livres
 - "Pathways" - Julien Gachadoat https://vetroeditions.com/pages/ptw?srsltid=AfmBOooXW4eyDFCoTol4E9sIWlV-TUcfRMPv9thSpX_9nvKg66LnWiwr
@@ -42,6 +45,11 @@
 
 L'application Mimo (sorte duolingo pour le code) - https://mimo.org
 Le site Codingame (petits jeux à plusieurs à réaliser par le code) - https://www.codingame.com/start/fr/
+
+
+## Site web utiles
+- https://www.w3schools.com/
+-
 
 ### **ML5 and Tensorflow**
 
